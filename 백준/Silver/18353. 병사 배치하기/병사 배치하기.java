@@ -15,20 +15,18 @@ public class Main {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		
+		
+		int maxLen = 0;
 		for (int i = 0; i < N; i++) {
-		    dp[i] = 1;
+		    dp[i] = 1; // 자기 자신만 쓰는 경우
 		    for (int j = 0; j < i; j++) {
 		        if (arr[j] > arr[i]) {
 		            dp[i] = Math.max(dp[i], dp[j] + 1);
 		        }
 		    }
+		    maxLen = Math.max(maxLen, dp[i]);
 		}
 		
-        int maxLen = 0;
-        for (int i = 0; i < N; i++) {
-            maxLen = Math.max(maxLen, dp[i]);
-        }
-
         System.out.print(N - maxLen);
 		
 	}
