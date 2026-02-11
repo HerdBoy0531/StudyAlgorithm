@@ -1,49 +1,48 @@
 import java.io.*;
 
 public class Main {
-	static int[][] chess;
-	static int n;
-	static int cnt = 0;
-	static int[] dy = new int[] {-1, -1, -1};
-	static int[] dx = new int[] {0, -1, 1};
-	
-	static boolean isOK(int y, int x) {
-		for(int i = 1; i < y + 1; i++) {
-			for(int j = 0; j < 3; j++) {
-				int cy = y + dy[j] * i;
-				int cx = x + dx[j] * i;
-				if(cy < 0 || cy >= n || cx < 0 || cx >= n) continue;
-				if(chess[cy][cx] == 1) {
-					return false;
-				}
-			}
-		}
-		return true;
-	}
-	
-	static void queen(int lev) {
-		if(lev == n) {
-			cnt++;
-		}
-		
-		for(int i = 0; i < n; i++) {
-			if(isOK(lev, i)) {
-				chess[lev][i] = 1;
-				queen(lev+1);
-				chess[lev][i] = 0;
-			}
-		}
-	}
-	
-	
-	public static void main(String[] args) throws IOException{
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		n = Integer.parseInt(br.readLine());
-		
-		chess = new int[n][n];
-		
-		queen(0);
-		
-		System.out.println(cnt);
-	}
+
+    static int n;
+    static int cnt = 0;
+
+    static boolean[] col;
+    static boolean[] diag1;
+    static boolean[] diag2;
+
+    static void queen(int y) {
+        if (y == n) {
+            cnt++;
+            return;
+        }
+
+        for (int x = 0; x < n; x++) {
+            int d1 = y - x + n - 1;
+            int d2 = y + x;
+
+            if (col[x] || diag1[d1] || diag2[d2]) continue;
+
+            col[x] = true;
+            diag1[d1] = true;
+            diag2[d2] = true;
+
+            queen(y + 1);
+
+            col[x] = false;
+            diag1[d1] = false;
+            diag2[d2] = false;
+        }
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        n = Integer.parseInt(br.readLine());
+
+        col = new boolean[n];
+        diag1 = new boolean[2 * n - 1];
+        diag2 = new boolean[2 * n - 1];
+
+        queen(0);
+
+        System.out.println(cnt);
+    }
 }
