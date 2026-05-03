@@ -15,7 +15,7 @@ class Solution {
                     works[i] -= 1;
                     n -= 1;
                 } else {
-                    continue;
+                    break;
                 }
             }
         }
