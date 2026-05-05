@@ -45,4 +45,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
