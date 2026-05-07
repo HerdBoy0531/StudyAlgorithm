@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 <!---LeetCode Topics End-->
