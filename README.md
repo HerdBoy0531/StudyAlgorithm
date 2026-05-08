@@ -8,11 +8,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
@@ -43,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
 | ------- |
@@ -61,4 +64,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
