@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
@@ -51,6 +52,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +74,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
