@@ -1,16 +1,20 @@
-import java.util.*;
-
 class Solution {
     public int findMin(int[] nums) {
-        int n = nums.length;
+        int left = 0;
+        int right = nums.length - 1;
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int i = 0; i < n; i++) {
-            pq.offer(nums[i]);
+        while(left < right) {
+            int mid = (left + right) / 2;
+
+            if(nums[mid] > nums[right]) {
+                left = mid + 1;
+            }
+
+            else {
+                right = mid;
+            }
         }
 
-        int ans = pq.poll();
-
-        return ans;
+        return nums[left];
     }
 }
