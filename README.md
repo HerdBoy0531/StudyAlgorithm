@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
+| [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2784-check-if-array-is-good) |
@@ -25,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1345-jump-game-iv](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3713-longest-balanced-substring-i) |
@@ -74,6 +76,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +110,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |
