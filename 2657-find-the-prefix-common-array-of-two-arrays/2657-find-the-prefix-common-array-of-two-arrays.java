@@ -2,20 +2,26 @@ class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
         int n = A.length;
 
-        int[] nums = new int[n + 1];
-        int[] C = new int[n];
+        int[] count = new int[n + 1];
+        int[] ans = new int[n];
 
-        for(int i = 0; i < n; i++) {
-            nums[A[i]] += 1;
-            nums[B[i]] += 1;
+        int common = 0;
 
-            for(int j = 1; j <= n; j++) {
-                if(nums[j] == 2) {
-                    C[i] += 1;
-                }
+        for (int i = 0; i < n; i++) {
+
+            count[A[i]]++;
+            if (count[A[i]] == 2) {
+                common++;
             }
+
+            count[B[i]]++;
+            if (count[B[i]] == 2) {
+                common++;
+            }
+
+            ans[i] = common;
         }
 
-        return C;
+        return ans;
     }
 }
