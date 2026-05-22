@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1306-jump-game-iii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1306-jump-game-iii) |
@@ -114,6 +115,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
