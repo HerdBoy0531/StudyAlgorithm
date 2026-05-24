@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1306-jump-game-iii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -87,6 +88,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 ## Breadth-First Search
@@ -111,6 +113,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
