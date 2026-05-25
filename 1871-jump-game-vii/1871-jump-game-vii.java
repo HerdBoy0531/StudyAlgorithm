@@ -1,37 +1,34 @@
-import java.util.*;
-
 class Solution {
     public boolean canReach(String s, int minJump, int maxJump) {
         int n = s.length();
 
-        Queue<Integer> q = new ArrayDeque<>();
-        boolean[] visited = new boolean[n];
+        boolean[] dp = new boolean[n];
+        int[] prefix = new int[n + 1];
 
-        q.offer(0);
-        visited[0] = true;
+        dp[0] = true;
+        prefix[1] = 1;
 
-        int farthest = 0;
+        for (int i = 1; i < n; i++) {
 
-        while (!q.isEmpty()) {
-            int cur = q.poll();
+            if (s.charAt(i) == '0') {
 
-            int start = Math.max(cur + minJump, farthest);
-            int end = Math.min(cur + maxJump, n - 1);
+                int left = Math.max(0, i - maxJump);
+                int right = i - minJump;
 
-            for (int next = start; next <= end; next++) {
-                if (s.charAt(next) == '0' && !visited[next]) {
-                    if (next == n - 1) {
-                        return true;
+                if (right >= 0) {
+                    int reachable =
+                        prefix[right + 1] - prefix[left];
+
+                    if (reachable > 0) {
+                        dp[i] = true;
                     }
-
-                    visited[next] = true;
-                    q.offer(next);
                 }
             }
 
-            farthest = Math.max(farthest, end + 1);
+            prefix[i + 1] =
+                prefix[i] + (dp[i] ? 1 : 0);
         }
 
-        return n == 1;
+        return dp[n - 1];
     }
 }
