@@ -24,6 +24,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2784-check-if-array-is-good](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
@@ -49,6 +50,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3161-block-placement-queries) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
@@ -133,6 +135,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0033-search-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3161-block-placement-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,4 +153,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1871-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
