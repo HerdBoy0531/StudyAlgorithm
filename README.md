@@ -18,6 +18,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -127,12 +128,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
