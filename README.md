@@ -89,6 +89,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +116,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
