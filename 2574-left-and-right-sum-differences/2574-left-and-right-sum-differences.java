@@ -7,12 +7,12 @@ class Solution {
 
         for(int i = 1; i < n; i++) {
             leftSum[i] = leftSum[i-1] + nums[i-1];
-            System.out.println(leftSum[i]);
+            rightSum[n - i - 1] = rightSum[n - i] + nums[n - i];
         }
 
-        for(int i = n - 2; i >= 0; i--) {
-            rightSum[i] = rightSum[i + 1] + nums[i + 1];
-        }
+        // for(int i = n - 2; i >= 0; i--) {
+        //     rightSum[i] = rightSum[i + 1] + nums[i + 1];
+        // }
 
         int[] answer = new int[n];
         for(int i = 0; i < n; i++) {
