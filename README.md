@@ -19,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2553-separate-the-digits-in-an-array) |
@@ -109,6 +110,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -135,6 +137,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
