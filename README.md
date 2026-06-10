@@ -37,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [3161-block-placement-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3161-block-placement-queries) |
 | [3479-fruits-into-baskets-iii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3479-fruits-into-baskets-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
@@ -149,6 +151,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -202,4 +205,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2196-create-binary-tree-from-descriptions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
