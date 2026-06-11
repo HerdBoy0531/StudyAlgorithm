@@ -9,7 +9,6 @@ class Solution {
 
     public int assignEdgeWeights(int[][] edges) {
 
-        // 노드가 1개뿐인 경우
         if(edges.length == 0) {
             return 0;
         }
