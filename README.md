@@ -32,6 +32,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3161-block-placement-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3479-fruits-into-baskets-iii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3479-fruits-into-baskets-iii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -96,6 +97,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -124,6 +126,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1340-jump-game-v](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -178,10 +181,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1306-jump-game-iii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
 |  |
 | ------- |
@@ -204,6 +209,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
