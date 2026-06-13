@@ -40,6 +40,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3689-maximum-total-subarray-value-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
+| [3838-weighted-word-mapping](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3120-count-the-number-of-special-characters-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
