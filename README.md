@@ -113,11 +113,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -221,4 +223,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
