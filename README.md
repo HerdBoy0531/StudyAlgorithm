@@ -99,6 +99,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
