@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1345-jump-game-iv](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
@@ -71,6 +72,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2574-left-and-right-sum-differences) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
