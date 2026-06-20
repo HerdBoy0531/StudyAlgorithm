@@ -16,6 +16,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
@@ -102,6 +103,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0048-rotate-image](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/0048-rotate-image) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -175,6 +177,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1340-jump-game-v](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2784-check-if-array-is-good) |
