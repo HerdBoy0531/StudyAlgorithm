@@ -23,7 +23,6 @@ class Solution {
             coins -= canBuy * cost;
 
             if (coins < cost) {
-                // 더 비싼 아이스크림은 못 사므로 종료 가능
                 continue;
             }
         }
