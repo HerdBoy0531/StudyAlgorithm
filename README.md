@@ -47,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -81,6 +82,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3093-longest-common-suffix-queries) |
@@ -93,6 +95,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1189-maximum-number-of-balloons) |
 | [3713-longest-balanced-substring-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
