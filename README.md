@@ -78,6 +78,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1732-find-the-highest-altitude](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
@@ -145,6 +146,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Breadth-First Search
