@@ -113,6 +113,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
@@ -147,6 +148,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Breadth-First Search
