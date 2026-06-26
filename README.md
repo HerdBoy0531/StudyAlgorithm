@@ -44,6 +44,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -62,11 +63,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3713-longest-balanced-substring-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -75,6 +78,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3691-maximum-total-subarray-value-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +89,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3699-number-of-zigzag-arrays-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -263,4 +268,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
