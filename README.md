@@ -20,6 +20,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1840-maximum-building-height](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -97,6 +98,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HerdBoy0531/StudyAlgorithm/tree/master/3120-count-the-number-of-special-characters-i) |
